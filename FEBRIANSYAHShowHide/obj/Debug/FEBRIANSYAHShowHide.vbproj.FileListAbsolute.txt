@@ -1,0 +1,15 @@
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\bin\Debug\FEBRIANSYAHShowHide.exe.config
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\bin\Debug\FEBRIANSYAHShowHide.exe
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\bin\Debug\FEBRIANSYAHShowHide.pdb
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\bin\Debug\FEBRIANSYAHShowHide.xml
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\MainWindow.g.vb
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\Application.g.vb
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\FEBRIANSYAHShowHide_MarkupCompile.cache
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\FEBRIANSYAHShowHide_MarkupCompile.lref
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\MainWindow.baml
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\FEBRIANSYAHShowHide.g.resources
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\FEBRIANSYAHShowHide.Resources.resources
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\FEBRIANSYAHShowHide.vbproj.GenerateResource.Cache
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\FEBRIANSYAHShowHide.exe
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\FEBRIANSYAHShowHide.xml
+c:\users\febriansyah.id\documents\visual studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Debug\FEBRIANSYAHShowHide.pdb

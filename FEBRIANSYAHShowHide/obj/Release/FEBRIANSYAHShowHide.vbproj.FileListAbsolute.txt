@@ -1,0 +1,16 @@
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\bin\Release\FEBRIANSYAHShowHide.exe.config
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\bin\Release\FEBRIANSYAHShowHide.exe
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\bin\Release\FEBRIANSYAHShowHide.pdb
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\bin\Release\FEBRIANSYAHShowHide.xml
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide.vbprojResolveAssemblyReference.cache
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\MainWindow.g.vb
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\Application.g.vb
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide_MarkupCompile.cache
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide_MarkupCompile.lref
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\MainWindow.baml
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide.g.resources
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide.Resources.resources
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide.vbproj.GenerateResource.Cache
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide.exe
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide.xml
+C:\Users\FEBRIANSYAH.ID\Documents\Visual Studio 2015\Projects\FEBRIANSYAHShowHide\FEBRIANSYAHShowHide\obj\Release\FEBRIANSYAHShowHide.pdb
