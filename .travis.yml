@@ -1,2 +1,5 @@
 language: csharp
 solution: FEBRIANSYAHShowHide.sln
+matrix:
+  include:
+    - dotnet: 4.5.2
