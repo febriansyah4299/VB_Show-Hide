@@ -1,6 +1,6 @@
 language: csharp
 solution: FEBRIANSYAHShowHide.sln
-dotnet: 2.1
+dotnet: latest
 mono:
 - latest
 - 5.10.0
